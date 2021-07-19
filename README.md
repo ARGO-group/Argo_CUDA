@@ -14,7 +14,7 @@ git clone git@github.com:ARGO-group/Argo_CUDA.git
 ```
 or download zip archive:
 ```
-push the green buttom "code" and download ZIP
+push the green buttom "Code" and download ZIP
 ```
 
 ## Build 
