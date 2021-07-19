@@ -12,9 +12,9 @@ An exhaustive method based on high-performance GPU computing to reveal degenerat
 ```
 git clone git@github.com:ARGO-group/Argo_CUDA.git
 ```
-or download the zip archive:
+or download zip archive:
 ```
-curl -L https://github.com/ARGO-group/Argo_CUDA/archive/refs/tags/v1.0.zip --output v1.0.zip
+push the green buttom "code" and download ZIP
 ```
 
 ## Build 
