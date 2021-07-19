@@ -10,11 +10,11 @@ An exhaustive method based on high-performance GPU computing to reveal degenerat
 
 ## Download
 ```
-git clone git@github.com:friofry/motif_finder_cuda.git
+git clone git@github.com:ARGO-group/Argo_CUDA.git
 ```
 or download the latest zip archive:
 ```
-curl -L https://github.com/friofry/motif_finder_cuda/archive/refs/tags/v1.0.zip --output v1.0.zip
+curl -L https://github.com/ARGO-group/Argo_CUDA/archive/refs/tags/v1.0.zip --output v1.0.zip
 ```
 
 ## Build 
